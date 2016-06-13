@@ -33,7 +33,7 @@ Currently, the theme will work with:
 
 - Java
 - Groovy
-- kotlin
+- Kotlin
 - HTML, CSS, Less, Sass/SCSS
 - Javascript, Typescript and CoffeeScript, 
 - Templating Languages (GSP, JSP...)
