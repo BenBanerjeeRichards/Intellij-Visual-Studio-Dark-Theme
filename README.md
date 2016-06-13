@@ -9,7 +9,7 @@ A replica of Visual Studio's dark theme for Intelliji.
 
 ### Automatic
 
-- Download settings.jar
+- Download [settings.jar](/settings.jar)
 - In Intelliji, go to File -> Import Settings
 - Select the settings.jar file you downloaded and press OK.
 
@@ -17,7 +17,7 @@ Intelliji will then restart before applying the color theme. If the theme is not
 
 ### Manual
 
-Download Visual Studio 2015.icls. Place it in:
+Download [Visual Studio 2015.icls](/Visual Studio 2015.icls). Place it in:
 
 - **Windows:** `C:\<username>\<Intelliji Folder>\config\colors\`
 - **Mac:** `~/Library/Preferences/<Intelliji Folder>/colors`
