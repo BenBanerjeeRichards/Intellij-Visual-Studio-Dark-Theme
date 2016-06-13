@@ -3,6 +3,8 @@ Visual Studio Dark Theme for IDEA Intelliji
 
 A replica of Visual Studio's dark theme for Intelliji.
 
+![Example with Groovy](/screenshots/groovy.png)
+
 ## Installation
 
 ### Automatic
