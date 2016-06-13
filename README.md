@@ -27,3 +27,21 @@ Download Visual Studio 2015.icls. Place it in:
 
 Then select the theme in File -> Settings and then Editor -> Colors & Fonts.
 
+## Supported Languages
+
+Currently, the theme will work with:
+
+- Java
+- Groovy
+- kotlin
+- HTML, CSS, Less, Sass/SCSS
+- Javascript, Typescript and CoffeeScript, 
+- Templating Languages (GSP, JSP...)
+- Actionscript
+- Batch Script
+- Cucumber
+- SQL
+- XML and XSLT
+- JSON and YAML
+
+and some others. Python support is currently being worked on.
