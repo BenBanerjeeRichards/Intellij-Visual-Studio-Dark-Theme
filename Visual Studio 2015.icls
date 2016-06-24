@@ -38,6 +38,11 @@
         <option name="BACKGROUND" value="762c2c" />
       </value>
     </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -305,6 +310,11 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value />
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
     </option>
     <option name="Instance field">
       <value>
