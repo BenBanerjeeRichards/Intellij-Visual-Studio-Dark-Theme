@@ -17,7 +17,7 @@ Intellij will then restart before applying the color theme. If the theme is not 
 
 ### Manual
 
-Download [Visual Studio 2015.icls](/Visual Studio 2015.icls). Place it in:
+Download [Visual Studio 2015.icls](https://raw.githubusercontent.com/BenBanerjeeRichards/Intellij-Visual-Studio-Dark-Theme/master/Visual%20Studio%202015.icls). Place it in:
 
 - **Windows:** `C:\<username>\<Intellij Folder>\config\colors\`
 - **Mac:** `~/Library/Preferences/<Intellij Folder>/colors`
