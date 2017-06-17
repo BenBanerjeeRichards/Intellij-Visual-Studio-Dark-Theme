@@ -23,7 +23,7 @@ Download [Visual Studio 2015.icls](/Visual Studio 2015.icls). Place it in:
 - **Mac:** `~/Library/Preferences/<Intelliji Folder>/colors`
 - **Linux:** `~/<Intelliji Folder>`
 
-\`Intelliji Folder\` will be something like \`.IntelliJIdea2016.1\`. For more information, see the [Intelliji help page](https://www.jetbrains.com/help/idea/2016.1/directories-used-by-intellij-idea-to-store-settings-caches-plugins-and-logs.html?origin=old_help).
+\`Intelliji Folder\` will be something like \`.IntelliJIdea2017.1\`. For more information, see the [Intelliji help page](https://www.jetbrains.com/help/idea/directories-used-by-intellij-idea-to-store-settings-caches-plugins-and-logs.html).
 
 Then select the theme in File -> Settings and then Editor -> Colors & Fonts.
 
@@ -32,7 +32,8 @@ Then select the theme in File -> Settings and then Editor -> Colors & Fonts.
 Currently, the theme will work with:
 
 - Java
-- Groovy
+- Groovy (with grails support)
+- Python
 - Kotlin
 - HTML, CSS, Less, Sass/SCSS
 - Javascript, Typescript and CoffeeScript, 
@@ -44,4 +45,4 @@ Currently, the theme will work with:
 - XML and XSLT
 - JSON and YAML
 
-and some others. Python support is currently being worked on.
+and some others.
