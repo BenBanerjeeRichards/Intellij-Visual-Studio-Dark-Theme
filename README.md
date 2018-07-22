@@ -9,7 +9,7 @@ This theme is based off Visual Studio and Visual Studio code.
 
 ## Installation
 
-- Download [settings.jar](/settings.jar)
+- Download [/settings.jar](/settings.jar)
 - In Intellij, go to File -> Import Settings
 - Select the settings.jar file you downloaded and press OK.
 
