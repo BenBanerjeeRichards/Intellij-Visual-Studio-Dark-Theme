@@ -15,7 +15,6 @@ This theme is based off Visual Studio and Visual Studio code.
 
 Intellij will then restart before applying the color theme. If the theme is not automatically applied, go to File -> Settings and then Editor -> Colors & Fonts and select the theme manually (Visual Studio).
 
-
 ## Supported Languages
 
 Currently, the theme will work with:
@@ -36,3 +35,6 @@ Currently, the theme will work with:
 - JSON and YAML
 
 and more!
+
+## Issues and contributing
+Please open a github issue for any problems you find. If possible add a screenshot to the issue as this makes it easy to see the problem.
