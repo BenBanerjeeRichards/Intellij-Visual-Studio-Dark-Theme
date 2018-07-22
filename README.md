@@ -13,7 +13,7 @@ This theme is based off Visual Studio and Visual Studio code.
 - In Intellij, go to File -> Import Settings
 - Select the settings.jar file you downloaded and press OK.
 
-Intellij will then restart before applying the color theme. If the theme is not automatically applied, go to File -> Settings and then Editor -> Colors & Fonts and select the theme manually (Visual Studio 2015).
+Intellij will then restart before applying the color theme. If the theme is not automatically applied, go to File -> Settings and then Editor -> Colors & Fonts and select the theme manually (Visual Studio).
 
 
 ## Supported Languages
