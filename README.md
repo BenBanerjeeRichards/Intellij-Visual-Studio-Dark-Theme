@@ -4,8 +4,7 @@ Visual Studio Dark Theme for IDEA Intellij
 A replica of Visual Studio's dark theme for Intellij
 
 ![Example with Python](screenshots/python.png)
-
-This theme is based off Visual Studio and Visual Studio code.
+![Example with Java](screenshots/java2.png)
 
 ## Installation
 
@@ -13,7 +12,9 @@ This theme is based off Visual Studio and Visual Studio code.
 - In Intellij, go to File -> Import Settings
 - Select the settings.jar file you downloaded and press OK.
 
-Intellij will then restart before applying the color theme. If the theme is not automatically applied, go to File -> Settings and then Editor -> Colors & Fonts and select the theme manually (Visual Studio).
+Intellij will then restart before applying the color theme. 
+
+If the theme is not automatically applied, go to File -> Settings and then Editor -> Colors & Fonts and select the theme manually (Visual Studio).
 
 ## Supported Languages
 
