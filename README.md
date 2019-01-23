@@ -1,7 +1,7 @@
 Visual Studio Dark Theme for IDEA Intellij
 ============================================
 
-A replica of Visual Studio's dark theme for Intellij
+A replica of Visual Studio's dark theme for Intellij. Also works with many other IDEA IDES including Clion, WebStorm and PyCharm.
 
 ![Example with Python](screenshots/python.png)
 ![Example with Java](screenshots/java2.png)
